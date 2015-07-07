@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 head {
 	background-color:#E2ED11;
 }
@@ -8,4 +9,14 @@ body {
 	font-size:60px;
 	color:#000000;
 	text-align:center;
+=======
+body {
+	background-color:green;
+
+}
+#one
+{
+	font-family:zapfino;
+	font-color:red;
+>>>>>>> origin/master
 }
