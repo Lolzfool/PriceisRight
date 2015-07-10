@@ -1,7 +1,24 @@
-
-//Old macdonald had a C++, EIEIOOoOoOooooooooeoeoeOEOeEIABAIUSHMDoh*^5786548v86753V854876v58V87786v5c78v586CV87645V8¶√§£∞8√¶§∞8¶√§∞•¢√∞•¶£¢„·´‡˜9˜´·„°˜‡{Null ERROR}
-
-window.prompt("Welcome to Price$4Me, a website that allows people to post about items and how cheap they were");
-
-
- 
+<head>
+       
+<title>Test</title>
+        
+    </head>
+    <body>
+    <script>
+        
+            var list = [];
+            function getText() {
+                var str = document.getElementById("txt");
+                list.push(str.value);
+                str.value = "";
+                str.focus();
+                var area = document.getElementById("stuff").innerHTML = list;
+                area.value = "";
+                if var i = 0; i < list.length; i++) {
+                    area.value += list[i] + "\n";
+                 
+            }
+        </script>
+        
+    </body>
+    </html>
