@@ -1,5 +1,5 @@
 
-            // var list = [];
+            /* var list = [];
             // function getText() {
                 // var str = document.getElementById("txt");
                 // list.push(str.value);
@@ -9,9 +9,9 @@
                 // area.value = "";
                 // for (var i = 0; i < list.length; i++) {
                     // str += list[i] + "<br>";
-                 // }
-                 // document.getElementById("stuff").innerHTML = str;
-             // }
+                  }
+                  document.getElementById("stuff").innerHTML = str;
+              } */
     (function($){
     $('#myform').submit(function(e){
         var val = $(this).find('#in').val();
